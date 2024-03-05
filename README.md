@@ -1,2 +1,0 @@
-# Pytorch-Tutorial-Demo
-test
